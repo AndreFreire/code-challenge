@@ -1,0 +1,27 @@
+USP has many lunch options between all the uni cafeterias and the restaurants inside the campus. An option that is usually chosen by MaratonIME seniors is the restaurant in the School of Education, for its good prices and free jelly.
+
+The seniors have years of experience weighting on their shoulders, and therefore have tired legs. So they choose to go to the restaurant by car. Trying to save gas, the seniors always minimize the number of cars necessary to take everyone to the restaurant.
+
+The seniors asked you to help them solve their problems. This morning, n cars with seniors arrived in the university, and all of them want to go to the restaurant. Each car holds up to 5 people. What is the minimum number of cars necessary to take everyone to the restaurant to "educate"?
+
+Input
+On the first line, an integer n, the number of cars. On the second line, n integers a1, ..., an, how many people arrived in each car.
+
+Limits
+
+1 ≤ n ≤ 105.
+1 ≤ ai ≤ 5, for all i.
+Output
+Print a single integer, the minimum number of cars needed to take everyone to the restaurant.
+
+Examples
+Input
+3
+3 4 5
+Output
+3
+Input
+6
+1 2 3 4 4 1
+Output
+3
